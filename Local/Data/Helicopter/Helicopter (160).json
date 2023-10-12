@@ -1,0 +1,44 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Helicopter",
+      "text": "",
+      "points": [
+        [
+          1.0226244343891366,
+          0.3800904977375452
+        ],
+        [
+          431.7918552036199,
+          251.05882352941177
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Helicopter",
+      "text": "",
+      "points": [
+        [
+          402.8325791855204,
+          95.40271493212668
+        ],
+        [
+          604.1900452488688,
+          206.71493212669682
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Helicopter (160).jpg",
+  "imageData": null,
+  "imageHeight": 408,
+  "imageWidth": 612
+}

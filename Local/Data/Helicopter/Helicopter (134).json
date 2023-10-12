@@ -1,0 +1,27 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Helicopter",
+      "text": "",
+      "points": [
+        [
+          0.6260162601626096,
+          6.743902439024392
+        ],
+        [
+          297.0,
+          172.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Helicopter (134).jpg",
+  "imageData": null,
+  "imageHeight": 183,
+  "imageWidth": 298
+}
